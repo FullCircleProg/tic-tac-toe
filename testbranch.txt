@@ -3,5 +3,4 @@ MASTER:
 -main to stay
 
 BRANCH01:
--Test1
->>>>>>> branch1
+-Test1 : ok
