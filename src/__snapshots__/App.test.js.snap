@@ -1,13 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Renders same as before - basic, no crash text 1`] = `
+exports[`Component: default default renders same as before with default props 1`] = `
 <div>
-   Play Tic-tac-toe: 
-</div>
-`;
-
-exports[`Renders same as before 1`] = `
-<div>
-   Play Tic-tac-toe: 
+  Play Tic-tac-toe: 
 </div>
 `;
