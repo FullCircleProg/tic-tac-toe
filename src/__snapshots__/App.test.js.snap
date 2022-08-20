@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders same as before - basic, no crash text 1`] = `
+<div>
+   Play Tic-tac-toe: 
+</div>
+`;
+
+exports[`Renders same as before 1`] = `
+<div>
+   Play Tic-tac-toe: 
+</div>
+`;
